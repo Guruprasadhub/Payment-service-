@@ -1,0 +1,8 @@
+server.port=8084
+spring.application.name=PAYMENT-SERVICE
+
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka/
+
+razorpay.api.key=rzp_test_SlLq8WmJLVN8Mh
+
+razorpay.api.secret=14q5otbGcTTY8gyZ7Q45rW1W
